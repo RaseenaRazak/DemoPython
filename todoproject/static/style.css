@@ -1,0 +1,11 @@
+.banner{
+background-color : red;
+width : 100%;
+height : 200px;
+}
+.banner_text{
+position : absolute;
+transform : transform;
+left : 50%;
+top : 50px;
+}
